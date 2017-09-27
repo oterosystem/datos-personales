@@ -4,6 +4,7 @@ public class ejemplo{
 	System.out.println("Luis OTERO quiñones.");
 	System.out.println("26 años.");
 	System.out.println("vivo en san andresd del rabanedo");
+	System.out.println("septiembre");
 
 }
 }
